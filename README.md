@@ -21,3 +21,12 @@ Tool description: Simply input text or public network links containing details o
 当前Goby AI 2.0 为内测版本！全版本用户免费测试使用！点击"AI"按钮，按照引导流程参与内测
 **![](https://s3.bmp.ovh/imgs/2024/11/22/745c9c7f98940cc0.webp)**
 
+
+**[Goby 官网: https://gobysec.net/](https://gobysec.net/)** 
+
+如果您有任何反馈建议，您可通过提交 issue 或是以下方式联系我们：
+
+1. GitHub issue:[https://github.com/gobysec/Goby-AI/issues](https://github.com/gobysec/Goby-AI/issues)
+2. Goby AI 2.0 交流群：关注公众号“GobySec“，回复暗号“加群”
+3. 推特：[https://twitter.com/GobySec](https://twitter.com/GobySec)
+
