@@ -5,6 +5,11 @@ Tool description: Simply input text or public network links containing details o
 
 **![](https://s3.bmp.ovh/imgs/2024/11/22/e20edd0c3d6f2c30.gif)**
 
+# GobyAI——实战检验
+## [*智能生成SQL注入类型漏洞EXP* ](https://github.com/gobysec/Goby-AI/blob/main/GobyAI%E5%AE%9E%E6%88%98%E6%A3%80%E9%AA%8C%EF%BC%9A%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90SQL%E6%B3%A8%E5%85%A5%E7%B1%BB%E5%9E%8B%E6%BC%8F%E6%B4%9EEXP.md)
+简述：以“Supabase 后端服务平台 SQL注入漏洞”为例，展示GobyAI智能生成SQL注入类型漏洞PoC/EXP的方式及实战验证效果
+
+
 # 2.0 版本描述：
 
 1.支持EXP智能输出；
