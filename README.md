@@ -1,14 +1,9 @@
 # Goby AI 2.0
-工具描述：只需输入附带漏洞Payload细节的文本或公网链接，Goby AI 2.0即可智能输出PoC/EXP，实现漏洞检测、漏洞复现，显著提升实战化漏洞复现与研究的效率。
+工具描述：只需输入附带漏洞Payload细节的文本或公网链接，即可智能输出PoC/EXP，实现漏洞检测、实战化漏洞验证，显著提升实战化漏洞复现与研究的效率。
 
 Tool description: Simply input text or public network links containing details of vulnerability Payloads, and Goby AI 2.0 can intelligently output PoC/EXP, enabling vulnerability detection and reproduction, and significantly enhancing the efficiency of practical vulnerability reproduction and research.
 
 **![](https://s3.bmp.ovh/imgs/2024/11/22/e20edd0c3d6f2c30.gif)**
-
-# GobyAI——实战检验
-## [*智能生成SQL注入类型漏洞EXP* ](https://github.com/gobysec/Goby-AI/blob/main/GobyAI%E5%AE%9E%E6%88%98%E6%A3%80%E9%AA%8C%EF%BC%9A%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90SQL%E6%B3%A8%E5%85%A5%E7%B1%BB%E5%9E%8B%E6%BC%8F%E6%B4%9EEXP.md)
-简述：以“Supabase 后端服务平台 SQL注入漏洞”为例，展示GobyAI智能生成SQL注入类型漏洞PoC/EXP的方式及实战验证效果
-
 
 # 2.0 版本描述：
 
@@ -17,6 +12,13 @@ Tool description: Simply input text or public network links containing details o
 2.优化转化成功率；
 
 2.支持复杂型漏洞（SQL注入、文件上传等）的EXP转化。
+
+
+
+# GobyAI——实战检验
+## [*智能生成SQL注入类型漏洞EXP* ](https://github.com/gobysec/Goby-AI/blob/main/GobyAI%E5%AE%9E%E6%88%98%E6%A3%80%E9%AA%8C%EF%BC%9A%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90SQL%E6%B3%A8%E5%85%A5%E7%B1%BB%E5%9E%8B%E6%BC%8F%E6%B4%9EEXP.md)
+简述：以“Supabase 后端服务平台 SQL注入漏洞”为例，展示GobyAI智能生成SQL注入类型漏洞PoC/EXP的方式及实战验证效果
+
 
 
 # 工具获取方式：
