@@ -59,7 +59,7 @@ FOFA语句：fofa语句app="金和网络-金和OA"
 **![](https://s3.bmp.ovh/imgs/2024/12/12/7cc3d0ca4af5fcf3.png)**
 
 点击验证，检测输出信息的准确性：√
-**![]()**
+**![](https://s3.bmp.ovh/imgs/2024/12/13/4c5ce965cc254fc3.png)**
 
 
 ## GobyAI 智能生成未授权访问类型漏洞完整流程演示效果如下：
