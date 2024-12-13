@@ -19,8 +19,11 @@ Tool description: Simply input text or public network links containing details o
 ## [*智能生成SQL注入类型漏洞EXP* ](https://github.com/gobysec/Goby-AI/blob/main/GobyAI%E5%AE%9E%E6%88%98%E6%A3%80%E9%AA%8C%EF%BC%9A%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90SQL%E6%B3%A8%E5%85%A5%E7%B1%BB%E5%9E%8B%E6%BC%8F%E6%B4%9EEXP.md)
 简述：以“Supabase 后端服务平台 SQL注入漏洞”为例，展示GobyAI智能生成SQL注入类型漏洞PoC/EXP的方式及实战验证效果。
 
-## [*智能生文件读取类型漏洞EXP* ](https://github.com/gobysec/Goby-AI/blob/main/GobyAI%E5%AE%9E%E6%88%98%E6%A3%80%E9%AA%8C%EF%BC%9A%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E7%B1%BB%E5%9E%8B%E6%BC%8F%E6%B4%9EEXP.md)
+## [*智能生成文件读取类型漏洞EXP* ](https://github.com/gobysec/Goby-AI/blob/main/GobyAI%E5%AE%9E%E6%88%98%E6%A3%80%E9%AA%8C%EF%BC%9A%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E7%B1%BB%E5%9E%8B%E6%BC%8F%E6%B4%9EEXP.md)
 简述：以“顺景ERP TMScmQuote/GetFile 任意文件读取漏洞”为例，展示GobyAI智能生成文件类型漏洞PoC/EXP的方式及实战验证效果。
+
+## [*智能生成未授权访问类型漏洞EXP* ](https://github.com/gobysec/Goby-AI/blob/main/GobyAI%E5%AE%9E%E6%88%98%E6%A3%80%E9%AA%8C%EF%BC%9A%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90%E6%9C%AA%E6%8E%88%E6%9D%83%E8%AE%BF%E9%97%AE%E7%B1%BB%E5%9E%8B%E6%BC%8F%E6%B4%9EEXP.md)
+简述：以“金和 OA SAP_B1Config.aspx未授权访问漏洞”为例，展示GobyAI智能生成文件类型漏洞PoC/EXP的方式及实战验证效果。
 
 
 # 工具获取方式：
