@@ -64,5 +64,6 @@ FOFA语句：fofa语句app="金和网络-金和OA"
 
 ## GobyAI 智能生成未授权访问类型漏洞完整流程演示效果如下：
 
+**![](https://s3.bmp.ovh/imgs/2024/12/13/dcc9d802eeb4fbca.gif)**
 
 
