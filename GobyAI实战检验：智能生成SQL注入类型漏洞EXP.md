@@ -1,4 +1,4 @@
-# SQL注入类型漏洞智能生成EXP构成方式
+# Goby AI 如何智能生成SQL注入型漏洞的PoC/EXP步骤及其构成方式
 GobyAI通过生成JSON代码就能够把SQL注入漏洞的各种EXP验证效果完整实现，在介绍具体的EXP代码之前，需要先了解一下我们的ExpParams参数的运行逻辑，这决定了最终我们将发送何种Payload来进行EXP验证。
 EXPParams:
 
