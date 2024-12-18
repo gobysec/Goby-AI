@@ -20,7 +20,7 @@ https://cve.imfht.com/poc_detail/4646c1bfc74e22ad244ba4fda8a1ad86509cec89
 
 智能体提取文本中的 产品名、漏洞路径、漏洞类型、CVE编号等信息，自动以 “产品名称+漏洞路径+漏洞类型+(CVE编号)"的格式生成漏洞名称
 
-1.智能提取漏洞名称：RaidenMAILD Mail Server /webeditor/ 目录遍历漏洞（CVE-2024-32399）；
+1.智能生成漏洞名称：RaidenMAILD Mail Server /webeditor/ 目录遍历漏洞（CVE-2024-32399）；
 
 2.参考来源中由于缺少规则指纹信息，智能体根据产品名称（RaidenMAILD-Mail-Server) 智能匹配FOFA app规则：app="RaidenMAILD-Mail-Server"；
 
@@ -110,6 +110,7 @@ Connection: close
 
 
 ## GobyAI 智能生成未授权访问类型漏洞完整流程演示效果如下：
+![](https://s3.bmp.ovh/imgs/2024/12/18/0a8a715b1419fbbb.gif)
 
 
 
