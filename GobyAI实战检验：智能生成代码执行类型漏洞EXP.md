@@ -81,7 +81,7 @@ Reverse指反弹shell。
 **![](https://s3.bmp.ovh/imgs/2025/02/19/ae6dba1628f0c528.png)**
 
 
-# 实战检验: PowerCreatorCMS UploadResourcePic 任意文件上传漏洞
+# 实战检验: Contec SolarView Compact /texteditor.php 代码执行漏洞
 
 输入靶场目标进行扫描，确认扫描测试准确性：√
 
